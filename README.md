@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000BF7&repeat=false&width=435&lines=Hi+there%F0%9F%91%8B+My+name+is+Sanjar)](https://git.io/typing-svg)
 
-<h3 align="center">I am an aspiring developer from Kyrgyzstan🇰🇬</h3>
+<h2>I am an aspiring developer from Kyrgyzstan🇰🇬</h2>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
