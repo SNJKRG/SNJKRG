@@ -2,7 +2,11 @@
 
 <h2>I am an aspiring developer from Kyrgyzstan🇰🇬</h2>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
+- 📈 I’m curious **lifelong learner**
+- 🏆 Holder of the **Proud of the nation diploma** due to achievements in high school education
+- 🧠 **Tutoring Math** at logosgroup.kg, onstudy
+- 🌱 I’m currenly studying **Artificial Intelligence and Data Science as a bachelor at ITU**.
+- 👨‍💻 Looking forward to collaborate with **you**
 
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snj_krg) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanzhar.kirgizbaev@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzhar-kirgizbaev/)
